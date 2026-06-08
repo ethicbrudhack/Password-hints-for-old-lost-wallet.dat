@@ -1,0 +1,45 @@
+DOGECOIN WALLET.DAT FILES HINTS LIST
+
+- 125012 DOGE : 	CN user, use china wordlist!
+
+- 499998 DOGE :	the password consists of digits, symbols, and Latin letters
+
+- 549797 DOGE :	the password consists of digits, symbols, and Latin letters
+
+- 653999 DOGE :	the password consists of digits, symbols, and Latin letters
+
+- 684436 DOGE :	the password consists of digits, symbols, and Latin letters
+		
+- 790351 DOGE : 	chinese user. this password was read from his browser: [家人庭父人母] but is not for this wallet. 
+				I recomend china wordlist
+
+- 2454322 DOGE :	chinese user. this password was read from his browser: [对不起!不好意思] but is not for this wallet. 
+				I recomend china wordlist
+
+- 2788727 DOGE :	the password consists of digits, symbols, and Latin letters
+
+
+- 8785741 DOGE :	the password consists of digits, symbols, and Latin letters
+
+
+- 11531214 DOGE :	US user. this password was read from his browser: [Egyptianization] but is not for this wallet. 
+				I recomend EN wordlist with [A-Z /a-z]			
+				lengh 8-14
+
+- 15700052 DOGE :	USA user. this password was read from his browser: [POIULKJ00POUY] but is not for this wallet. 
+				I recomend [A-Z]{6} + [Digits] {2} + [A-Z /a-z]{6} 
+				lengh 8-14
+
+- 16541973 DOGE : 	CN user, no informations 
+
+- 18211993 DOGE : 	USA user.
+				lengh 8-14
+
+- 37062722 DOGE :	frensh user. this password was read from his browser: [W58Fgg$53fESD] but is not for this wallet. 
+				I recomend [A-Z /a-z]{6} + [Special] {1} + [A-Z /a-z]{6} 
+				lengh 8-14
+
+- 116001027 DOGE : 	UK user, this password was read from his browser: [VancouverCanucks] but is not for this wallet. 
+				I recomend EN wordlist with [A-Z /a-z]			
+				lengh 8-14
+https://t.me/cuda8

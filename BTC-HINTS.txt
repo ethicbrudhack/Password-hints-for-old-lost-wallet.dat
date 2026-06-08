@@ -1,0 +1,654 @@
+BITCOIN WALLET.DAT FILES HINTS LIST https://t.me/cuda8
+
+- 0,009 BTC : 	10 Characters - no information
+
+- 0,01 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 0,0141 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 0,016 BTC : 	Lost password, length unknown, there is a large letter F in the password
+
+- 0,0163 BTC : The password consists of digits, symbols, and Latin letters.
+
+- 0,01786 BTC : The password consists of digits, symbols, and Latin letters.
+
+- 0,0299 BTC : 11 characters, it is not known what is in the password, it may be false. (according to my suspicions)
+
+- 0,0314 BTC :  File of a Chinese student who actively studied English. 
+		All files on her PC were always signed in English letters, 
+		which often ended in numbers (usually this is the date the file was created). 
+		There is a suspicion that the password is also in English letters and perhaps some kind of date at the end
+
+- 0,03286 BTC : The password consists of digits, symbols, and Latin letters.
+
+- 0,041 BTC : 	11 characters. The layout is unknown.
+
+- 0,058 BTC : The password consists of digits, symbols, and Latin letters.
+
+- 0,062 BTC : From the owner's mouth, the password consists of 13 characters.
+
+- 0,072 BTC : 	chinese user . 12 characters . with $
+
+- 0,083 BTC :  	chinese user. this password was read from his browser: I@@@rrazar1994 but is not for this wallet. 
+		I recomend [A-Z]{1} + [Special] {1,4} + [a-z]{4,8} + year[1950-2014]
+		lengh 8-14
+
+- 0,19 BTC : 	US user. this password was read from his browser: !@#$%^&*() but is not for this wallet. I recomend special chars: lengh 6-12
+
+- 0,219 BTC : 	11 Characters - 3 Special characters included
+
+- 0,299 BTC : 	english user . 9 characters . small . whitout number . just alphabet and numbers
+
+- 0,366 BTC : 	Korean user 8 characters.
+
+- 0,393 BTC : The password consists of digits, symbols, and Latin letters.
+
+- 0,539 BTC : The password is 8 characters long, the password was created by the user. EN layout.
+
+- 0,923 BTC : 	The password consists of digits, symbols, Latin or maybe Russian letters.
+
+- 1,001 BTC : A password has been generated, more than 10 characters it is known that the first capital letter is D 
+
+- 1,087 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 1,094 BTC : 	password 15 (+) characters
+
+- 1,217 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 1,394 BTC : Password forgotten. Russian user.
+
+- 1,4412 BTC : Lost password, longer than 10 characters. The layout is unknown.
+
+- 1,4413 BTC : Length of 8 characters in the password flash was used unknown with them - \ / |
+
+- 1,56 BTC : 	9 character. numbers and special 
+
+- 1,65 BTC : The password consists of sick letters of the English layout.
+ 
+- 1,716 BTC : The password consists of digits, symbols, and Latin letters.
+
+- 1,8391 BTC : English user, can't remember password. From words did not use capital letters for the password.
+
+- 1,8394 BTC : The password consists of the English layout including 2 characters (-) the length is unknown.
+
+- 1,929 BTC : Password 13 characters layout unknown.
+
+- 2 BTC : Lost password, length unknown.
+
+- 2,005 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 2,007 BTC : 	10 small english and 5 numbers
+
+- 2,03 BTC : 	Little is known about the wallet and it is not a fact that it is 9 characters long.
+
+- 2,048 BTC : 	Japanese - length unknown.
+
+- 2,054 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 2,059 BTC : The password consists of digits, symbols, and Latin letters.
+
+- 2,087 BTC : The password consists of digits, symbols, and Latin letters.
+
+- 2,16 BTC : 	16 english small alphabet without any numbers.
+
+- 2,2 BTC : 	english user. The password consists of digits, symbols, and Latin letters.
+
+- 2,283 BTC : Password 11 characters. The layout is unknown.
+
+- 2,288 BTC : 	english user. The password consists of digits, symbols, and Latin letters.
+	
+- 2,295 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 2,4 BTC : 	User generated password, length unknown, Caps Lock was enabled.
+
+- 2,459 BTC : Password 13 characters, there is a space in the password, Russian layout.
+
+- 2,5 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 2,537 BTC : Russian user claims that his brother's wallet is unknown in which direction to dig.
+
+- 2,63 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 2,687 BTC : The password consists of digits, symbols, and Latin letters.
+
+- 2,73 BTC : Password 15 characters. The layout is unknown.
+
+- 2,74 BTC : Password generated 9 characters, EN layout.
+
+- 2,827 BTC : 	Length 8 characters, mixed languages, it is not clear what is in the password.( Damocles666 ... lol ) 
+
+- 2,695 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 2,745 BTC : The password consists of digits, symbols, and Latin letters.
+
+- 2,96 BTC : Password 17 characters from which 5 characters hash (#)
+
+- 2,97 BTC : 	english user. The password consists of digits, symbols, and Latin letters.
+
+- 3,01 BTC : Unknown password, unknown whose file.
+
+- 3,02 BTC : Password length 11 characters, English layout.
+
+- 3,049 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 3,08 BTC : Password 10 characters, generated.
+
+- 3,174 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 3,368 BTC : 	10 Characters - 4 numbers included
+
+- 3,533 BTC : 	part of password is 10 numbers. other part is 3 english alphabet
+
+- 3,739 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 3,85 BTC : 	english user. The password consists of digits, symbols, and Latin letters.
+
+- 3,885 BTC : 	The Chinese miner set a password with 7 characters, the layout is unknown.
+
+- 3,98 BTC : 	numbers and special characters english. length 13 char
+
+- 4 BTC : The password is 15 characters long at the end of the password is the year 1985.
+
+- 4,022 BTC : 	7-9 characters long, English user.
+
+- 4,36 BTC : The password is more than 10 characters, the exact length is unknown.
+
+- 4,381 BTC : 	english user. 16 characters 
+
+- 4,82 BTC : 	english user. The password consists of digits, symbols, and Latin letters.
+
+- 4,85 BTC : Password 8-9 characters, English layout. The password contains a space.
+
+- 5,034 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 5,055 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 5,08 BTC : Nothing is known about the password and owner.
+
+- 5,86 BTC : 	german letter, length unknow
+
+- 5,89 BTC : Password 14 characters, 4 characters year of birth 1989.
+
+- 6 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 6 BTC - 2 : 	The password is 11 characters, nothing else is unknown.
+
+- 7 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 6,194 BTC : 	The password is 5 characters, (passed 4,5,6,7,8) whoever has the capacity can try up to 10, you may be lucky.
+
+- 6,29 BTC : 	english user. The password consists of digits, symbols, and Latin letters.
+
+- 6,337 BTC : 	8 characters, it is known that there is a space in the password and Shift was also used.
+
+- 6,33 BTC : Restored file - no informations!
+
+- 8,5 BTC : 	english user. The password consists of digits, symbols, and Latin letters.
+
+- 8,90 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 9,43 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 10,21 BTC : The password consists of digits, symbols, and Latin letters.
+
+- 10,502 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 10,83 BTC : 	8 characters, EN layout, ending consists of digits 88.
+
+- 11,311 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 11,57 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 12,82 BTC : 	9 symbols for the switched on capslokom, a set of symbols is not important.
+
+- 13,47 BTC : The password consists of digits, symbols, and Latin letters.
+
+- 13,76 BTC : Password is 14 characters German keyboard layout.
+
+- 13,999 BTC : The password consists of digits, symbols, and Latin letters.
+
+- 14,09 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 14,35 BTC : 	The password consists of digits, symbols, and Latin letters. Password created via desktop password generator.
+
+- 14,7 BTC : 	9 character password has been random generated
+
+- 14,775 BTC : Password 14 characters, English user.
+
+- 15,71 BTC : 	14 character password.
+
+- 15,75 BTC : Password generated Unknown length, Unknown layout.
+
+- 15,99 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 14,6 BTC :  Password 17 characters, generated 100% honest information.
+
+- 16,13 BTC : 	10-character password has been generated. The layout is unknown. 
+	
+- 16,23 BTC : 	password 13 characters
+
+- 17,08 BTC : Password with numbers and capital letters of the English layout. The length is unknown.
+
+- 17,09 BTC : 	The length is more than 15 characters, the password from the address, persistent.
+
+- 17,19 BTC : The password consists of digits, symbols, and Latin letters.
+
+- 17,2 BTC :  the file was distributed by 2 persons, according to the owner, the password was 8 characters, the password was not found for 8 characters
+			all extent including both English and Russian with special characters and space.
+	
+- 17,429 BTC : The password consists of digits, symbols, and Latin letters.
+
+- 17,82 BTC : 	The Russian user generated a password from large small English and tsyfer, how long the password is unknown.
+
+- 17,82 BTC-2 : nothing known about the owner and the password.	
+
+- 18 BTC : 	The length is 8 characters. The layout is unknown.
+
+- 18,09 BTC :	The password consists of digits, symbols, and Latin letters.
+
+- 18,17 BTC : 	A British user claimed that the password was in front of 2013 and then his former license plate.
+
+- 18,72 BTC : 	A Russian user, put a phrase from a magazine about a VAZ 2101 auto, which phrase and how long it does not remember.
+
+- 19,28 BTC :	The password consists of numbers and small English letters. The length is unknown.
+
+- 19,3 BTC : The password consists of digits, symbols, and Latin letters.
+
+- 19,336 BTC : 9 Characters including a space
+
+- 19,39 BTC : 	US user. this password was read from his browser: !GoW@yKer777 but is not for this wallet. 
+		I recomend [mix]{5,10} + [0-9]{2,6}
+		lengh 8-16
+- 19,43 BTC : 	It is 10-12 characters long, the password contains the name nikolay.
+
+- 19,88 BTC : The password consists of digits, symbols, and Latin letters.
+
+- 20 BTC : 	13 characters. The layout is unknown.
+
+- 20.003 BTC :	CN user. this password was read from his browser: [云淡牛魔王风轻] but is not for this wallet. 
+		I recomend chinalist 
+		lengh 8-12
+
+- 20,11 BTC : The password consists of digits, symbols, and Latin letters.
+
+- 21,89 BTC : 	The password has 999 at the end. The length is unknown.
+
+- 22,43 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 22,75 BTC :	The password consists of digits, symbols, and Latin letters.
+
+- 22,77 BTC : 	UA user. this password was read from his browser: [WerWert#@!] but is not for this wallet. 
+		I recomend [mix]{5,10} + [0-9]{2,6}
+		lengh 8-12
+
+- 22,85 BTC : 	The password consists of digits, symbols, and Latin letters. Presumably 10 characters.
+
+- 22,99 BTC : 	NL user, this password was read from his browser: [qwertyuiopasdfghjklzxcvbnm] but is not for this wallet. 
+		I recomend [a-z]
+		lengh 8-20
+
+- 24,088 BTC : 	8-12 len, latin + number + special characters, end on numeric. it is not known. it's probably a year. but not the person's year of birth
+
+- 25 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 25,001 BTC : The English user claims to have put the name of the dog pressko
+			 and added a 10 digit generated password to the name.
+
+- 25,999 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 26,31 BTC :	US user. this password was read from his browser: [correcthorsebatterystaple] but is not for this wallet. 
+		I recomend [a-z]
+		lengh 8-14
+
+- 26,459 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 27,037 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 28 BTC : 	English layout. The owner imagined this password but forgot. The password contains space and date. Total of 10 symbols only.
+
+- 28,12 BTC : 	neli - maybe double "l" + date 1987. I know some more info! Will give it after the sale.
+		Customers opinion: Checked in gov's databases, and even private databases on Germany and Europe. 
+		Kevin Vunderg doesn't exist, he is not a person.
+		Also, the part that assures me that the seller provided fake info, 
+		is that the email kevin.vunderg@yahoo.com is ran by someone in Ukrainian because I contacted the guy and the German 
+		he speaks is not formal German, more like google translate.
+
+- 28,32 BTC : 	english user. The password consists of digits, symbols, and Latin letters.
+
+- 28,33 BTC : 	english user. The password consists of digits, symbols, and Latin letters.
+
+- 30,52 BTC : 	CN user, this password was read from his browser: [小小珠珠珠珠] but is not for this wallet. 
+		I recomend china list
+		lengh 8-14
+
+- 30,55 BTC :	CN user, no other informations.
+
+- 30,99 BTC : 	english user. The password consists of digits, symbols, and Latin letters.
+
+- 31,01 BTC : 	english user. The password consists of digits, symbols, and Latin letters.
+
+- 31,485 BTC : 	english user. The password consists of digits, symbols, and Latin letters.
+
+- 31,86 BTC : 	Russian user, cyrilic world + numeric - leng: 7-11
+
+- 32,06 BTC : 	CN user, this password was read from his browser: [88/!TiLo3H2zREe)] but is not for this wallet. 
+		I recomend mix list
+		lengh 8-14
+
+- 33,03 BTC : 	UA user. this password was read from his browser: VjzFkbyrf1993 but is not for this wallet. 
+		I recomend [a-z,A-Z]{6,10} + year [1950 - 2014] 
+		lengh 8-14
+
+- 32,875 BTC : 	english user. The password consists of digits, symbols, and Latin letters.
+
+- 34,77 BTC : 	user from ukraine, most used password: Кірк3@нік - length of the password is unknown!
+
+- 36,048 BTC : The password consists of digits, symbols, and Latin letters.
+
+- 36,09 BTC :	US user. this password was read from his browser: [thisisnotmypassword] but is not for this wallet. 
+		I recomend [a-z]
+		lengh 8-14
+
+- 36,63 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 36,83 BTC : 	The Russian password. is made up of flowers and beads for a length of unaffected, 
+		available in all combinations of up to 9 inches.
+
+https://t.me/cuda8
+
+- 40 BTC :	The password consists of digits, symbols, and Latin letters.
+
+- 40,47 BTC :	RU user. this password was read from his browser: [letmein420REDACTED] but is not for this wallet. 
+		I recomend [A-Z,a-z,0-9]
+		lengh 8-14
+
+- 42,24 BTC : 	The password consists of digits, symbols, Latin or maybe Russian letters.
+
+- 42,42 BTC : The password consists of digits, symbols, and Latin letters.
+
+- 43,68 BTC :	CN user. this password was read from his browser: [Mychemical666] but is not for this wallet. 
+		I recomend [A-Z,a-z,0-9]
+		lengh 8-14
+
+- 45,5 BTC :	RU user. this password was read from his browser: [1q2w3e4r5t6y7u8i9o0p] but is not for this wallet. 
+		I recomend [a-z,0-9]
+		lengh 8-14
+
+- 45,67 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 47 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 48,92 BTC : The password consists of digits, symbols, and Latin letters.
+
+- 49,94 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 50 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 50 BTC-2 : 	8 characters, there is a lot of special characters, the password is shaped like a size on the box.
+
+- 50 BTC-3 : 	Generated password, English layout (small), longer than 10 characters
+
+- 50 BTC-4 : 	Chinese user. the length of the password is 12 characters, what was used in the password is unknown, the information was received not from the owner, but from 2 persons and may not be accurate.
+
+- 50 BTC-5 : 	english user. The password consists of digits, symbols, and Latin letters.
+
+- 50 BTC-6 : 	english user. The password consists of digits, symbols, and Latin letters.
+
+- 50 BTC-7 : 	english user. The password consists of digits, symbols, and Latin letters.
+
+- 50 BTC-8 : 	english user. The password consists of digits, symbols, and Latin letters.
+
+- 50 BTC-9 : 	The Russian user has generated a password from large small English and numbers, the length of the password is unknown.
+
+- 50,43 BTC : 	10 small character, in english, with numbers
+
+- 51,99 BTC : 	UA user, this password was read from his browser: [LESBIAN1] but is not for this wallet. 
+		I recomend CAPS+Digits
+		lengh 8-12
+
+
+- 52,08 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 52,55 BTC : 	Password 9 characters formed, persistent. 
+
+- 55,98 BTC : 	CN user, this password was read from his browser: [88/!TiLo3H2zREe)] but is not for this wallet. 
+		I recomend mix list
+		lengh 8-14
+
+- 57 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 58,13 BTC : 	UK user, The password consists of digits, symbols, and Latin letters.
+
+- 59,68 BTC : 	FR user. The password consists of digits, symbols, and Latin letters.
+
+- 59,72 BTC : 	Passlen: 8-12
+		Prompt: China user, China world + special + num
+
+- 59,81 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 61,21 BTC : 	Lost password, it was generated, more than 10 characters.
+
+- 62,01 BTC : The password consists of digits, symbols, and Latin letters.
+
+- 62,8 BTC : 	UA user, no inormations.
+
+- 67,288 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 67,82 BTC : 	german user. this password was read from his browser: GmitLiebe4dir but is not for this wallet. 
+		I recomend I recomend German WordList
+		lengh 8-14
+
+- 68,53 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 69,10 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 70,01 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 75 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 75,25 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 77,98 BTC : The Russian user changed the password after the wallet was restored, from the words the password was from English letters mixed with large and small 9 characters.
+
+- 78,603 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 78,659 BTC : 	There are 15 English characters in the password, the password format is formed, which is not known in the password.
+
+- 86,63 BTC : 	The password consists of digits, symbols, and Latin letters. 
+
+- 87,15 BTC : 	US user. this password was read from his browser: [the_quick_brown_fox] but is not for this wallet. 		
+
+- 89 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 89,5 BTC : 	RU user, no informations.
+
+- 90,59 BTC : 	According to the owner, the password was in small letters, about 8-9 characters.
+
+- 91 BTC : the password starts with the word HEX, the length is unknown.
+
+- 99,46 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 99,99 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 99,996 BTC : 	Passlen: 7-13
+		Prompt: China user, start at UPPER key, end of 2033
+
+- 100 BTC : 	Passlen: 16
+		Prompt: USA user, only numbers
+
+- 100 BTC - 2 : The password consists of digits, symbols, and Latin letters.
+
+- 100 BTC - 3 : The password consists of digits, symbols, and Latin letters.
+
+- 100,63 BTC : 	CN user, no informations.
+
+- 101 BTC : 	RU user. this password was read from his browser: [DDD%$5GGGGDdd@] but is not for this wallet. 
+		leng: 14
+
+- 101,104 : 	The password consists of digits, symbols, and Latin letters.
+
+- 105,11 BTC : The password consists of digits, symbols, and Latin letters.
+
+- 106 BTC : 	CN user. this password was read from his browser: [假冒者高井加卡] but is not for this wallet. 
+		use china worldlist, leng: 8-12
+
+- 107,50 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 108 BTC : 	CN user, The password consists of digits, symbols, and Latin letters.
+- 108,06 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 110 BTC : 	The password consists of digits, symbols, and Latin letters. Password created via desktop password generator.
+
+- 120,36 BTC :  Prompt: RU user, RU wold with digits
+		Passlen: 10-20
+		this password was read from his browser МазаФакерШиттер44
+
+- 129,66 BTC : EN user, 9 characters long.
+
+- 131,63 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 140 BTC : 	Passlen: 7-13
+		this password was read from his browser
+		Example: Password123 to P@55w0rd!@#
+
+- 141 BTC:	Passlen: 8-12
+		Prompt: China user, englisg wold with symbol replace
+		this password was read from his browser FarMa##2Rk
+
+- 146 BTC : 	CN user, no informations.
+
+- 150 BTC : 	US user, this password was read from his browser: [P@$$W0rD] but is not for this wallet. 
+		I recomend english wordlist with symbols
+
+- 150,366 BTC : The password consists of digits, symbols, and Latin letters.
+
+- 151 BTC : 	EN user, The password consists of digits, symbols, and Latin letters.
+
+- 159,89 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 167 BTC : The password consists of digits, symbols, and Latin letters.
+
+- 169 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 177,74 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 180,77 BTC : I forgot my password, but it was easy to remember in my head, I can't say the length for sure,
+			 I don't even know what characters are in the password. (I don’t advise you to hack it, according to the info, even the owner doesn’t know anything.)
+
+
+- 182 BTC : 	RU user, The password consists of digits, symbols, and Latin letters.
+
+- 186,29 BTC : 	English password 10 symbols (small).
+
+- 198,029 BTC : The password consists of digits, symbols, and Latin letters.
+
+- 200 BTC : 	Romania user: The password consists of digits, symbols, Latin or maybe romanian letters.
+
+- 200 BTC-2 : 	12 Character Password - Name has the word Georg
+
+- 200 BTC-3:	US user, this password was read from his browser: [dezoxiribonukleinsav] but is not for this wallet. 
+		I recomend [a-z]. lengh 8-20
+
+- 204,16 BTC : The password consists of digits, symbols, and Latin letters.
+
+- 227 BTC : 	chinese user. this password was read from his browser: DarkTyan@ but is not for this wallet. 
+		I recomend [A-Z}{1} + [a-z]{2,6} + [A-Z}{1} + [a-z]{2,6} + [special]{1,2} OR English WordList
+		lengh 8-14
+
+- 227,39 BTC : 	chinese user. this password was read from his browser: [大衣甲蟲深色44@@] but is not for this wallet. 
+		I recomend chinalist digits {2,4} + [special]{1,2}
+		lengh 8-12
+
+- 236 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 250 BTC : 	CN user, no informations.
+
+- 252 BTC : The password contains three characters 8 ~ , the length of the password is 10-12 characters.
+
+- 266 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 281 BTC :	US user, this password was read from his browser: [NEON285PARK] but is not for this wallet.
+		I recomend english wordlist CAPS with digits
+		lengh 8-12
+
+- 285 BTC : 	RU user, this password was read from his browser: [1324@#$%ZZZ] but is not for this wallet.
+		I recomend [0-9]{1-4} + [symbol]{2,6} + [A-Z}{1-4} + or English WordList
+		lengh 8-14
+
+- 289 BTC : 	chinese user. this password was read from his browser: 硬瑪達 but is not for this wallet. 
+		dont know what is it. probably Chinese was used for pass. I recomend China WordList
+
+- 300 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 300 BTC -2: 	US user, this password was read from his browser: [TarZan3D] but is not for this wallet. 
+		I recomend english wordlist with symbol
+		lengh : 8-12
+
+- 300 BTC -3:	The password consists of digits, symbols, and Latin letters.
+
+- 319 BTC : Password 11 characters without capital letters.
+
+- 340 BTC : 	The layout is English, the number of characters is from 8 to 14, there are special characters, well-known characters R u k l, there are numbers in the password.
+
+- 356 BTC : 	US user, this password was read from his browser: [unitedstatesofamerica] but is not for this wallet. 
+		I recomend EN wordlist
+		lengh : 8-18
+			
+- 362 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 364 BTC : 	CN user, no informations.
+
+- 405 BTC : The length of the password from the source is 8-10 characters, the password was generated with the entire set of special characters.
+
+- 478 BTC : The password consists of digits, symbols, and Latin letters.
+
+- 551 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 575,99 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 568 BTC : 	CN user, he password consists of digits, symbols, and Latin letters.
+
+- 624 BTC : 	CN user, this password was read from his browser: [客气!客气! ] but is not for this wallet. 
+		I recomend china wordlist with end of symbols
+		lengh : 8-12
+
+- 861 BTC : 	german user his often used password: LoLitota1993 - password consists of max 12 characters!
+
+- 875 BTC : 	China user, Latinic password, start at 1 special sym, end of 2 num
+
+- 1128 BTC :	UA user, this password was read from his browser: [12345hello12345]but is not for this wallet. 
+		I recomend EN wordlist with symbols
+		lengh : 8-14
+
+- 1240 BTC : The password consists of digits, symbols, and Latin letters.
+
+- 1434 BTC : 	China user, Latinic password end of "1984"
+
+- 1500 BTC : 	CN user, this password was read from his browser: [对不起!不好意思] but is not for this wallet. 
+		I recomend china wordlist with symbols
+		lengh : 8-12
+
+- 1545 BTC : 	The password consists of digits, symbols, and Latin letters.
+
+- 1550 BTC :	US user, some password ex. from logs: Piki-Diki / Art-22643 / Art-22643 / GDv_&&& / Art-22643 / CoD_V1.0 / Art22643
+
+- 2026 BTC:	CN user, this password was read from his browser: [瓦帕薩卡爾甦法爾] but is not for this wallet. 
+		I recomend china wordlist with symbols
+		lengh : 8-12
+
+- 4000 BTC : 	The password of the email address from the anonymizer was created automatically (similar to the formation of a password) English small, large, 
+		possibly a digit is present. 9-10 characters long. 
+		There are 3 known symbols - 'r', 'u', '.'. Also, '@' because it's an email.
+
+- 5000 BTC : 	username is Beardman6710@gmail.com on the darknet they said his password is BeardMAN and numbers man like 
+		e,g Beardman1678900067 because on the hacked files thats what all his passwords look like so
+		create a tokenlist with number 1 - 1000 000 000 then do a mix to match it with BeardMan, beardman, BEARDMAN, BeardMAN, BEARDman.
+
+- 7941 BTC : 	Passlen: 8-13
+		Prompt: USA user, used latinic sym, start at upperkey, end of special + numeric
+
+- 10000 BTC : 	This address included in the top richest addresses. The wallet owner was an American OTC trader and holder. This means that password should be English alphanumeric. We don't know password length. Also, the address 1LfV1tSt3KNyHpFJnAzrqsLFdeD2EvU1MK still receive whale alerts (trader's signals) with small deposits like 600, 777, 547 Satoshi. It's bizarre.
+
+- 12600 BTC :	The password consists of digits, symbols, and Latin letters.
+
+https://t.me/cuda8
