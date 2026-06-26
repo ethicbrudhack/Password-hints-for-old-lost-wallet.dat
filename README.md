@@ -1,4 +1,4 @@
-video: [https://studio.youtube.com/video/DQvbQun1R70/edit](https://www.youtube.com/watch?v=DQvbQun1R70&feature=youtu.be)
+video: https://www.youtube.com/watch?v=DQvbQun1R70&feature=youtu.be
 
 ALL WALLET DAT DATABASE !!!
 kevinvunderg@gmail.com - email me for more info 
